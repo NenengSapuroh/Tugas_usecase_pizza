@@ -1,0 +1,51 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="719" measuredH="330" mockupW="450" mockupH="326">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="269" y="4" w="450" h="326" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>1</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>false</maximizeRestore>
+        <minimize>false</minimize>
+        <text/>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Canvas" x="269" y="27" w="450" h="303" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="290" y="198" w="408" h="66" measuredW="200" measuredH="140" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16711935</color>
+        <text>Dengan%20menyebut%20nama%20Allah%20aku%20berserah%20diri%20kepada%20Allah%20dan%20tidak%20ada%20daya%20serta%20kekuatan%20melainkan%20dengan%20pertolongan%20Allah</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="348" y="72" w="293" h="111" measuredW="328" measuredH="154" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./doa-keluar-rumah.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="293" y="279" w="-1" h="-1" measuredW="96" measuredH="30" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16711935</color>
+        <icon>JumpBackIcon%7Csmall</icon>
+        <text>Kembali</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="444" y="42" w="-1" h="-1" measuredW="125" measuredH="22" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>14</size>
+        <text>Do%27a%20Keluar%20Rumah</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

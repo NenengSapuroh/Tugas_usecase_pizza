@@ -1,0 +1,47 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="719" measuredH="330" mockupW="450" mockupH="326">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="269" y="4" w="450" h="326" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bottomheight>1</bottomheight>
+        <close>true</close>
+        <dragger>false</dragger>
+        <maximizeRestore>false</maximizeRestore>
+        <minimize>true</minimize>
+        <text/>
+        <topheight>26</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="376" y="43" w="-1" h="-1" measuredW="229" measuredH="28" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>20</size>
+        <text>Aplikasi%20Do%27a%20Sehari-hari</text>
+        <textOrientation>right</textOrientation>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="313" y="97" w="164" h="173" measuredW="192" measuredH="200" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./doa.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="521" y="85" w="158" h="220" measuredW="158" measuredH="383" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <hLines>false</hLines>
+        <italic>false</italic>
+        <selectedIndex>-1</selectedIndex>
+        <text>Pilihan%20Do%27a%0ADo%27a%20Bangun%20Tidur%0ADo%27a%20Bercermin%0ADo%27a%20Berpakaian%0ADo%27a%20Kedua%20Orang%20Tua%0ADo%27a%20Keluar%20Rumah%0ADo%27a%20Naik%20Kendaraan%0ADo%27a%20Masuk%20Kamar%20Kecil%0ADo%27a%20Keluar%20Kamar%20Kecil%0ADo%27a%20Sebelum%0ADo%27a%20Sebelum%20Makan%0ADo%27a%20Sebelum%20Tidur%0ADo%27a%20Sesudah%20Makan</text>
+        <value>6</value>
+        <verticalScrollbar>true</verticalScrollbar>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="269" y="27" w="450" h="303" measuredW="100" measuredH="70" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

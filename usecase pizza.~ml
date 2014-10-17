@@ -41,7 +41,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="WTDJ9Qf0+UOWsk9Plure4wAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="+w3z9qoy10e8xwad64e8dgAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Pelanggan</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Pembeli</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="0AXfos6b6UOXhPZlEq3gtQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -1037,7 +1037,7 @@
 </XPD:OBJ>
 <XPD:ATTR name="#OwnedElements" type="integer">26</XPD:ATTR>
 <XPD:OBJ name="OwnedElements[0]" type="UMLActor" guid="M64tFsOnOEWgFoXLPw+rCgAA">
-<XPD:ATTR name="Name" type="string">Pelanggan</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">Pembeli</XPD:ATTR>
 <XPD:REF name="Namespace">6OTE+w49H0G0vP8G19RprAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">3</XPD:ATTR>
 <XPD:REF name="Views[0]">e2blIQGDXEWex8GhkHtMqQAA</XPD:REF>

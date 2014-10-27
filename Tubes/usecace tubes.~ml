@@ -72,7 +72,7 @@
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="uy1OJfWYH0iYcILnWQWv3AAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="lRWi0HgOZEaP5m/1GboPlQAA">
 <XPD:ATTR name="FontStyle" type="integer">1</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Memilih Do'a</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">memilhan Do'a</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="SZSa1j7Q0kGAunTNKw4IfgAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -336,7 +336,7 @@
 <XPD:REF name="Associations[1]">En2UkWVFTU+xuQku0dsG2wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[1]" type="UMLUseCase" guid="+VZ+mF2roEKBF3xieQ7mBgAA">
-<XPD:ATTR name="Name" type="string">Memilih Do'a</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">memilhan Do'a</XPD:ATTR>
 <XPD:REF name="Namespace">aQLPh1GKa02373SBt34zbQAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
 <XPD:REF name="Views[0]">155o1mAnzUWtreks5SCnyQAA</XPD:REF>

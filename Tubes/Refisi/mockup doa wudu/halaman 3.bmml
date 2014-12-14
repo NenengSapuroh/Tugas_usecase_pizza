@@ -1,0 +1,14 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="638" measuredH="399" mockupW="282" mockupH="334">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::iPhone" x="356" y="65" w="282" h="334" measuredW="282" measuredH="510" zOrder="0" locked="false" isInGroup="-1"/>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::List" x="424" y="133" w="145" h="210" measuredW="100" measuredH="232" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <rowHeight>20</rowHeight>
+        <selectedIndex>-1</selectedIndex>
+        <text>Do%27a%20membasuh%20pergelangan%20tangan%20%0ADo%27a%20berkumur%0ADo%27a%20membasuh%20hidung%0ADo%27a%20membasuh%20muka%0ADo%27a%20membasuh%20tangan%20kanan%0ADo%27a%20membasuh%20tangan%20kiri%0ADo%27a%20membasahi%20sebagian%20kepala%0ADo%27a%20membasuh%20dua%20telinga%0ADo%27a%20membasuh%20dua%20kaki%0ADo%27a%20setelah%20berwudu</text>
+        <verticalScrollbar>false</verticalScrollbar>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

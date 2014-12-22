@@ -25,8 +25,6 @@ public class Doakeduatangankanan extends Activity{
 	        String mimeType = "text/html";
 	        String encoding = "UTF-8";
 
-	        //webview.loadUrl("file:///android_asset/info.html");
-	        //webview.loadData(content, mimeType, encoding);
 	        webview.loadDataWithBaseURL("file:///android_asset", content, mimeType, encoding, null);
 	}
 

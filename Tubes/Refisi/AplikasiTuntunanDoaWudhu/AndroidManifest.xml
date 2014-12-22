@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.aplikasituntunandoawudhu"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/wd"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" android:debuggable="true">
+        <activity
+            android:name="com.example.aplikasituntunandoawudhu.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Doaberkumur"></activity>
+        <activity android:name=".Doakeduatangan"></activity>
+        <activity android:name=".Doakeduatangankiri"></activity>
+        <activity android:name=".Doakeduatangankanan"></activity>
+        <activity android:name=".Doamembasuhhidung"></activity>
+        <activity android:name=".Doamembasuhkepala"></activity>
+        <activity android:name=".Doamembasuhmuka"></activity>
+        <activity android:name=".Doamembasuhtelinga"></activity>
+        <activity android:name=".DoaPergelangan"></activity>
+        <activity android:name=".Doamembasuhkaki"></activity>
+         <activity android:name=".DoaSetelahwudhu"></activity>
+        <activity android:name=".about"></activity>
+                <activity android:name=".MenuUtama"></activity>
+                 <activity android:name=".Tuntunandoawudhu"></activity>
+                
+    </application>
+
+</manifest>
